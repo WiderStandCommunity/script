@@ -46,5 +46,9 @@
     {
         "name": "Doors",
         "url": "https://raw.githubusercontent.com/RegularVynixu/Vynixius/main/Doors/Script.lua"
+    },
+    {
+        "name": "Jailbreak",
+        "url":"https://scripts.luawl.com/14245/JailbreakerFree.lua"
     }
 ]
