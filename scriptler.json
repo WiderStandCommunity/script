@@ -42,5 +42,9 @@
     {
         "name": "My Restaurant",
         "url": "https://rawscripts.net/raw/My-Restaurant!-Fast-Autofarm-4610"
+    },
+    {
+        "name": "Doors",
+        "url": "https://raw.githubusercontent.com/RegularVynixu/Vynixius/main/Doors/Script.lua"
     }
 ]
