@@ -47,8 +47,4 @@
         "name": "Doors",
         "url": "https://raw.githubusercontent.com/RegularVynixu/Vynixius/main/Doors/Script.lua"
     },
-    {
-        "name": "Jailbreak",
-        "url":"https://raw.githubusercontent.com/RegularVynixu/Vynixius/main/Loader.lua"
-    }
 ]
