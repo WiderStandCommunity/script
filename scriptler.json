@@ -27,41 +27,49 @@
     {
         "name": "MM2",
         "url": "https://raw.githubusercontent.com/Ethanoj1/EclipseMM2/master/Script",
-            "game_url":"https://www.roblox.com/games/142823291/Murder-Mystery-2"
+            "game_url":"https://www.roblox.com/games/142823291/Murder-Mystery-2",
+            "Bool":"0"
     },
     {
         "name": "Ninja Legends",
         "url": "https://raw.githubusercontent.com/Username132131231/scripts1/main/ninjalegends",
-            "game_url":"https://www.roblox.com/games/3956818381/Ninja-Legends"
+            "game_url":"https://www.roblox.com/games/3956818381/Ninja-Legends",
+            "Bool":"0"
     },
     {
         "name": "Shindo Life",
         "url": "https://raw.githubusercontent.com/Username132131231/scripts1/main/shindolife",
-            "game_url":"https://www.roblox.com/games/4616652839/200th-UPDATE-Shindo-Life"
+            "game_url":"https://www.roblox.com/games/4616652839/200th-UPDATE-Shindo-Life",
+            "Bool":"0"
     },
     {
         "name": "Blox Fruits",
         "url": "https://raw.githubusercontent.com/Luciquad/xenia/main/cheatersoulx2",
-             "game_url":"https://www.roblox.com/games/2753915549/RACE-V4-Blox-Fruits"
+             "game_url":"https://www.roblox.com/games/2753915549/RACE-V4-Blox-Fruits",
+            "Bool":"0"
     },
     {
         "name": "LOS",
         "url": "https://raw.githubusercontent.com/RegularVynixu/Vynixius/main/Legends%20Of%20Speed/Script.lua",
-            "game_url":"https://www.roblox.com/games/3101667897/Legends-Of-Speed"
+            "game_url":"https://www.roblox.com/games/3101667897/Legends-Of-Speed",
+            "Bool":"0"
     },  
     {
         "name": "My Restaurant",
         "url": "https://rawscripts.net/raw/My-Restaurant!-Fast-Autofarm-4610",
-            "game_url":"https://www.roblox.com/games/4490140733/x2-My-Restaurant"
+            "game_url":"https://www.roblox.com/games/4490140733/x2-My-Restaurant",
+            "Bool":"0"
     },
     {
         "name": "Doors",
         "url": "https://raw.githubusercontent.com/RegularVynixu/Vynixius/main/Doors/Script.lua",
-            "game_url":"https://www.roblox.com/games/6516141723/DOORS"
+            "game_url":"https://www.roblox.com/games/6516141723/DOORS",
+            "Bool":"0"
     },
     {
         "name":"Bloxburg",
         "url":"https://cdn.applebee1558.com/alphax/AlphaX.lua",
-            "game_url":"https://www.roblox.com/games/185655149/Welcome-to-Bloxburg"
+            "game_url":"https://www.roblox.com/games/185655149/Welcome-to-Bloxburg",
+            "Bool":"0"
     }
 ]
